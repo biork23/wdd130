@@ -20,13 +20,13 @@ main section{
 }
 #background {
     height: 725px;
-    background-color:#A43312; 
+    background-color:#5D55D3; 
 }
 body {
-    background-color: #fcfbfb;
+    background-color: #EDEFEEff;
 }
 header {
-    background-color: #396E94;
+    background-color: #4996C4ff;
 }
 
 nav a:hover {
@@ -35,13 +35,13 @@ nav a:hover {
 
 }
 .home-title {
-    color:#396E94
+    color:#4996C4ff
 }
 h4 {
-    color:#396E94
+    color:#4996C4ff
 }
 .book, .join {
-    background-color:#396E94;
+    background-color:#4996C4ff;
     color: navy;
     text-decoration: none;
 }
@@ -51,7 +51,7 @@ h4 {
 
 }
 .msg {
-    background-color:#396E94;
+    background-color:#4996C4ff;
 
 }
 .msg h2{
@@ -64,15 +64,15 @@ h4 {
     width:80%;
 }
 footer {
-    background-color:#E7C24F;
-    color: #A43312;
+    background-color:#046C4Eff;
+    color: #5D55D3;
 }
  footer a{
-    color:#A43312;
+    color:#5D55D3;
     text-decoration: none;
  }
 footer a:hover{
-    color: #396E94;
+    color: #4996C4ff;
 } 
 footer p {
     font-size: 1.2em;
